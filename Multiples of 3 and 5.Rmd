@@ -1,0 +1,26 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+```{r}
+solution <- function(number){
+  if(number <= 0){
+    return(0)
+  } else {
+    result <- 0
+    for(i in 1:number - 1){
+      if (i %% 3 == 0 | i %% 5 == 0){
+        result <- result + i
+        print(result)
+      }
+    }
+    return(result)
+  }
+}
+```
+```{r}
+solution(20)
+```
+
