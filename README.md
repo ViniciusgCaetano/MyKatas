@@ -12,5 +12,6 @@ This is a repository containing some resolution code for Kata challanges on [Cod
 - [Codewars style ranking system](https://www.codewars.com/kata/51fda2d95d6efda45e00004e)
 - [Roman Numerals Helper](https://www.codewars.com/kata/51b66044bce5799a7f000003/train/python)
 - [Nesting Structure Comparison](https://www.codewars.com/kata/520446778469526ec0000001/train/python)
+
 ### Katas to be solved
-None.
+- [How many ways can you make the sum of a number?](https://www.codewars.com/kata/52ec24228a515e620b0005ef/train/python)
